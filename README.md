@@ -1,4 +1,4 @@
-# Generate-CryptoPunks-with-GAN
+# Generate-CryptoPunks-with-DCGAN
 
 ## Blog
 
