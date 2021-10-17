@@ -4,6 +4,8 @@
 
 [Medium Blog](https://baotramduong.medium.com/generate-nft-cryptopunks-with-deep-convolutional-generative-adversarial-network-dcgan-db35f0a1adb4)
 
+[Kaggle Kernel](https://www.kaggle.com/baotramduong/generate-wit-cryptopunks-with-dggan/notebook)
+
 ## Introduction
 
 An NFT is a Non Fungible Token, unique tokens that can be traded and exchanged on the Ethereum blockchain.
@@ -43,3 +45,14 @@ The dataset [CryptoPunks, can be found on Kaggle](https://www.kaggle.com/tunguz/
 <img src = '../main/Data & Images/gen.png' />
 
 ## Result
+
+<img src = '../main/Data & Images/p1.png' />
+
+<img src = '../main/Data & Images/p2.png' />
+
+<img src = '../main/Data & Images/p3.png' />
+
+<img src = '../main/Data & Images/p4.png' />
+
+<img src = '../main/Data & Images/p100.png' />
+
