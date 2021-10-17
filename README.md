@@ -24,6 +24,22 @@ The dataset [CryptoPunks, can be found on Kaggle](https://www.kaggle.com/tunguz/
 
 ## Exploratory Data Analysis
 
+<img src = '../main/Data & Images/100 punks.png' />
+
+<img src = '../main/Data & Images/type vs price.png' />
+
+<img src = '../main/Data & Images/cryptopunk type vs price.png' />
+
+<img src = '../main/Data & Images/num atrributes vs price alien.png' />
+
+<img src = '../main/Data & Images/num atrributes vs price zombie.png' />
+
+<img src = '../main/Data & Images/num atrributes vs price ape.png' />
+
+<img src = '../main/Data & Images/num atrributes vs price human.png' />
+
 ## Modeling
+
+<img src = '../main/Data & Images/gen.png' />
 
 ## Result
