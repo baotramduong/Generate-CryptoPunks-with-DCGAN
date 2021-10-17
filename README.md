@@ -1,6 +1,6 @@
 # Generate-CryptoPunks-with-DCGAN
 
-## Blog
+## Blog 
 
 [Medium Blog](https://baotramduong.medium.com/generate-nft-cryptopunks-with-deep-convolutional-generative-adversarial-network-dcgan-db35f0a1adb4)
 
